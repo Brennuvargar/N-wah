@@ -1,0 +1,305 @@
+<br><font color=red>*Uchiha, Tyler (Tyler-The Sith Lord) increases their chakra by Full - 7 / 7.
+<br><font color=red>*Senju, Yush (Boy-Yushiroz) just reduced their chakra by a cost of E - 3 / 4
+<br><font color=red>*Senju, Yush (Boy-Yushiroz) increases their chakra by Full - 4 / 4.
+<br><font color=red>*Uchiha, Tyler (Tyler-The Sith Lord) increases their stamina by Full - 10 / 10.
+<br><font color=red>*Uchiha, Tyler (Tyler-The Sith Lord) increases their chakra by Full - 61 / 61.
+<br><font color=red>*Uchiha, Tyler (Tyler-The Sith Lord) just reduced their chakra by a cost of B- - 49 / 61
+<br><font color=red>*Senju, Yush (Boy-Yushiroz) just reduced their chakra by a cost of E - 3 / 4
+<br><font color=red>*Senju, Yush (Boy-Yushiroz) just reduced their chakra by a cost of E - 2 / 4
+<br><font color=red>*Senju, Yush (Boy-Yushiroz) increases their chakra by Full - 4 / 4.
+<br><font color=red>*Uchiha, Sete (Cody-Seteden) just reduced their stamina by a cost of S+ - 0 / 6
+<br><font color=red>*Uchiha, Tyler(The Sith Lord) has been knocked out.
+<br><font color=red>*Uchiha, Sete(Seteden) has been knocked out.
+<br><font color=red>*Senju, Yush(Yushiroz) has been knocked out.
+<br><i><a href=?src=[0x30000aa];action=name;character=be6955685008ddfd5920813f98938ee3713a15640a5a67687a1732e1749c2745 style = "text-decoration: none; color: #009966;">Cody</a> has been completely drained of stamina!</i>
+<br><font color=red>*Akimichi, Randy(Tenen42) has been knocked out.
+<br><font color=red>*Uchiha, Tyler (Tyler-The Sith Lord) increases their chakra by S+ - 82 / 82.
+<br><font color=red>*Uchiha, Tyler (Tyler-The Sith Lord) increases their chakra by S+ - 82 / 82.
+<br><font color=red>*Uchiha, Sete (Cody-Seteden) increases their stamina by Full - 6 / 6.
+<br><font color=red>*Uchiha, Tyler (Tyler-The Sith Lord) increases their chakra by S+ - 82 / 82.
+<br><font color=red>*Uchiha, Tyler (Tyler-The Sith Lord) increases their stamina by S+ - 100 / 125.
+<br><font color=red>*Uchiha, Tyler (Tyler-The Sith Lord) increases their stamina by Full - 125 / 125.
+<br><font color=red>*Akimichi, Randy (Asdf req-Tenen42) increases their stamina by D - 6 / 6.
+<br><font color=red>*Uchiha, Sete (Cody-Seteden) increases their chakra by Full - 7 / 7.
+<br><font color=red>*Uchiha, Tyler (Tyler-The Sith Lord) just reduced their stamina by a cost of S+ - 35 / 125
+<br><font color=red>*Uchiha, Sete (Cody-Seteden) increases their stamina by Full - 125 / 125.
+<br><font color=red>*Uchiha, Sete (Cody-Seteden) just reduced their stamina by a cost of S+ - 35 / 125
+<br><font color=red>*Uchiha, Sete (Cody-Seteden) increases their stamina by Full - 125 / 125.
+<br><font color=red>*Uchiha, Sete (Cody-Seteden) just reduced their stamina by a cost of C - 119 / 125
+<br><font color=red>*Uchiha, Sete (Cody-Seteden) just reduced their stamina by a cost of C - 113 / 125
+<br><font color=red>*Uchiha, Sete (Cody-Seteden) just reduced their stamina by a cost of C - 107 / 125
+<br><font color=red>*Uchiha, Sete (Cody-Seteden) just reduced their stamina by a cost of C - 101 / 125
+<br><font color=red>*Uchiha, Sete (Cody-Seteden) just reduced their stamina by a cost of B - 87 / 125
+<br><font color=red>*Uchiha, Sete (Cody-Seteden) increases their stamina by Full - 125 / 125.
+<br><font color=red>*Senju, Yush (Boy-Yushiroz) increases their stamina by Full - 125 / 125.
+<br><font color=red>*Senju, Yush (Boy-Yushiroz) just reduced their stamina by a cost of S+ - 35 / 125
+<br><font color=red>*Senju, Yush (Boy-Yushiroz) increases their stamina by Full - 125 / 125.
+<br><font color=red>*Senju, Yush (Boy-Yushiroz) just reduced their stamina by a cost of B - 111 / 125
+<br><font color=red>*Senju, Yush (Boy-Yushiroz) just reduced their stamina by a cost of B - 97 / 125
+<br><font color=red>*Senju, Yush (Boy-Yushiroz) just reduced their stamina by a cost of B - 83 / 125
+<br><font color=red>*Senju, Yush (Boy-Yushiroz) just reduced their stamina by a cost of B - 69 / 125
+<br><font color=red>*Senju, Yush (Boy-Yushiroz) just reduced their stamina by a cost of B - 55 / 125
+<br><font color=red>*Senju, Yush (Boy-Yushiroz) just reduced their stamina by a cost of B - 41 / 125
+<br><font color=red>*Senju, Yush (Boy-Yushiroz) just reduced their stamina by a cost of B - 27 / 125
+<br><font color=red>*Senju, Yush (Boy-Yushiroz) increases their chakra by Full - 61 / 61.
+<br><font color=red>*Senju, Yush (Boy-Yushiroz) increases their stamina by Full - 125 / 125.
+<br><font color=red>*Uchiha, Sete(Seteden) has been knocked out.
+<br><font color=red>*Uchiha, Sete (Cody-Seteden) increases their stamina by D+ - 125 / 125.
+<br><font color=red>*Uchiha, Sete (Cody-Seteden) increases their stamina by C - 125 / 125.
+<br><font color=red>*Uchiha, Sete (Cody-Seteden) increases their chakra by Full - 82 / 82.
+<br><font color=red>*Uchiha, Tyler (Tyler-The Sith Lord) increases their chakra by E - 82 / 82.
+<br><font color=red>*Uchiha, Sete (Cody-Seteden) just reduced their chakra by a cost of S+ - -8 / 82
+<br><i><a href=?src=[0x30000aa];action=name;character=be6955685008ddfd5920813f98938ee3713a15640a5a67687a1732e1749c2745 style = "text-decoration: none; color: #009966;">Cody</a> has been completely drained of chakra!</i>
+<br><font color=red>*Uchiha, Sete (Cody-Seteden) increases their chakra by Full - 74 / 82.
+<br><font color=red>*Senju, Yush (Boy-Yushiroz) just reduced their chakra by a cost of S+ - -29 / 103
+<br><i><a href=?src=[0x30000aa];action=name;character=655a334a3b9293228952fdad65f18f8f6c000f5d3abe78521bd7fa69e380db5c style = "text-decoration: none; color: #009966;">Boy</a> has been completely drained of chakra!</i>
+<br><font color=red>*Senju, Yush (Boy-Yushiroz) increases their stamina by Full - 240 / 240.
+<br><font color=red>*Senju, Yush (Boy-Yushiroz) increases their chakra by Full - 74 / 103.
+<br><font color=red>*Senju, Yush (Boy-Yushiroz) increases their chakra by Full - 103 / 103.
+<br><font color=red>*Uchiha, Tyler (Tyler-The Sith Lord) increases their chakra by Full - 338 / 338.
+<br><font color=red>*Uchiha, Tyler (Tyler-The Sith Lord) increases their stamina by Full - 240 / 240.
+<br><font color=red>*Uchiha, Tyler (Tyler-The Sith Lord) just reduced their stamina by a cost of S+ - 150 / 240
+<br><font color=red>*Uchiha, Tyler (Tyler-The Sith Lord) increases their stamina by Full - 240 / 240.
+<br><font color=red>*Senju, Yush (Boy-Yushiroz) increases their stamina by Full - 278 / 278.
+<br><font color=red>*Senju, Yush (Boy-Yushiroz) increases their chakra by Full - 181 / 181.
+<br><font color=red>*Uchiha, Tyler (Tyler-The Sith Lord) just reduced their chakra by a cost of S+ - 248 / 338
+<br><font color=red>*Kami, Cody (Fasfa-Seteden) just reduced their stamina by a cost of S+ - 0 / 125
+<br><i><a href=?src=[0x30000a9];action=name;character=be6955685008ddfd5920813f98938ee3bdf1a29b8dc9d5b77da3f24efa95dca4 style = "text-decoration: none; color: #009966;">Fasfa</a> has been completely drained of stamina!</i>
+<br><font color=red>*Kami, Cody(Seteden) has been knocked out.
+<br><font color=red>*Kami, Cody (Fasfa-Seteden) increases their stamina by Full - 125 / 125.
+<br><font size=-3><font color = white><font color=#009966>Kami, Cody (Fasfa-Seteden) FUUUUUUCCCCCCCCCCCKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKDSADASDASFASOFHKZHX AS
+DJ SAOP;DHN;S JDH;AS DJ
+ASF JN
+;GJ 
+DSF LDF{"d
+GFKF A
+F SF SF fsaArWQRQWR</font></font></font>
+<br><font size=-3><font color = white><font color=#009966>Akimichi, Wefawef adsfasdfa (Fawef afwe-Tenen42) kicks Tyler in the balls</font></font></font>
+<br><font size=-3><font color = white><font color=#009966>Kami, Cody (Fasfa-Seteden) FUUUUUUCCCCCCCCCCCKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKDSADASDASFASOFHKZHX AS
+DJ SAOP;DHN;S JDH;AS DJ
+ASF JN
+;GJ 
+DSF LDF{"d
+GFKF A
+F SF SF fsaArWQRQWRFUUUUUUCCCCCCCCCCCKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKDSADASDASFASOFHKZHX AS
+DJ SAOP;DHN;S JDH;AS DJ
+ASF JN
+;GJ 
+DSF LDF{"d
+GFKF A
+F SF SF fsaArWQRQWRFUUUUUUCCCCCCCCCCCKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKDSADASDASFASOFHKZHX AS
+DJ SAOP;DHN;S JDH;AS DJ
+ASF JN
+;GJ 
+DSF LDF{"d
+GFKF A
+F SF SF fsaArWQRQWRFUUUUUUCCCCCCCCCCCKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKDSADASDASFASOFHKZHX AS
+DJ SAOP;DHN;S JDH;AS DJ
+ASF JN
+;GJ 
+DSF LDF{"d
+GFKF A
+F SF SF fsaArWQRQWRFUUUUUUCCCCCCCCCCCKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKDSADASDASFASOFHKZHX AS
+DJ SAOP;DHN;S JDH;AS DJ
+ASF JN
+;GJ 
+DSF LDF{"d
+GFKF A
+F SF SF fsaArWQRQWR</font></font></font>
+<br>This entry was too long to be apended to the chat log.
+<br><font size=-3><font color = white><font color=#009966>Kami, Cody (Fasfa-Seteden) FUUUUUUCCCCCCCCCCCKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKFUUUUUUCCCCCCCCCCCKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKFUUUUUUCCCCCCCCCCCKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKDSADASDASFASOFHKZHX AS
+DJ SAOP;DHN;S JDH;AS DJ
+ASF JN
+;GJ FUUUUUUCCCCCCCCCCCKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKDSADASDASFASOFHKZHX AS
+DJ SAOP;DHN;S JDH;AS DJ
+ASF JN
+;GJ 
+DSF LDF{"d
+GFKF A
+F SF SF fsaArWQRQWR
+DSF LDF{"d
+GFKF A
+F SF SF fsaArWQRQWRKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKDSADASDASFASOFHKZHX AS
+DJ SAOP;DHN;S FUUUUUUCCCCCCCCCCCKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKDSADASDASFASOFHKZHX AS
+DJ SAOP;DHN;S JDH;AS DJ
+ASF JN
+;GJ 
+DSF LDF{"d
+GFKF A
+F SF SF fsaArWQRQWRJDH;AFUUUUUUCCCCCCCCCCCKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKDSADASDASFASOFHKZHX AS
+DJ SAOP;DHN;S JDH;AS DJ
+ASF JN
+;GJ 
+DSF LDF{"d
+GFKF A
+F SF SF fsaArWQRQWRS DJ
+ASF JN
+;GJ 
+DSF LDF{"d
+GFKF A
+F SF SF fsaArWQRQWRKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKDSADASDASFASOFHKZHX AS
+DJ SAOP;DHN;S JDH;AS DJ
+ASF JNFUUUUUUCCCCCCCCCCCKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKDSADASDASFASOFHKZHX AS
+DJ SAOP;DHN;S JDH;AS DJ
+ASF JN
+;GJ 
+DSF LDF{"d
+GFKF A
+F SF SF fsaArWQRQWR
+;GJ 
+DSF LDF{"d
+GFKF A
+F SF SF fsaArWQRQWR</font></font></font>
+<br><font color=red>*Akimichi, Wefawef adsfasdfa(Tenen42) has been knocked out.
+<br><font color=red>*Mee , Tyler(The Sith Lord) has been knocked out.
+<br><font color=red>*Akimichi, Wefawef adsfasdfa (Fawef afwe-Tenen42) just reduced their stamina by a cost of B - 0 / 6
+<br><i>Akimichi, Wefawef adsfasdfa has been completely drained of stamina!</i>
+<br><font color=red>*Akimichi, Wefawef adsfasdfa(Tenen42) has been knocked out.
+<br><font size=-3><font color = white><font color=#009966>Akimichi, Wefawef adsfasdfa (Fawef afwe-Tenen42) cuts off Tyler's middle toe</font></font></font>
+<br><font size=-3><font color = white><font color=#009966>Akimichi, Wefawef adsfasdfa (Fawef afwe-Tenen42) Just Monika</font></font></font>
+<br><font size=-3><font color = white><font color=#009966>Akimichi, Wefawef adsfasdfa (Fawef afwe-Tenen42) Just Monika Just Monika </font></font></font>
+<br><font size=-3><font color = white><font color=#009966>Akimichi, Wefawef adsfasdfa (Fawef afwe-Tenen42) Just Monika Just Monika Just Monika Just Monika </font></font></font>
+<br><font size=-3><font color = white><font color=#009966>Akimichi, Wefawef adsfasdfa (Fawef afwe-Tenen42) Just Monika Just Monika Just Monika Just Monika Just Monika Just Monika Just Monika Just Monika </font></font></font>
+<br><font size=-3><font color = white><font color=#009966>Akimichi, Wefawef adsfasdfa (Fawef afwe-Tenen42) Just Monika Just Monika Just Monika Just Monika Just Monika Just Monika Just Monika Just Monika Just Monika Just Monika Just Monika Just Monika </font></font></font>
+<br><font size=-3><font color = white><font color=#009966>Mee , Tyler (Jkbjbjk-The Sith Lord) eat mhnkndnjkgknjgfdknjgf eat mhnkndnjkgknjgfdknjgf  eat mhnkndnjkgknjgfdknjgfg  CAPSLAMS THIS IS NOT A DIRLL</font></font></font>
+<br><font size=-3><font color = white><font color=#009966>Mee , Tyler (Jkbjbjk-The Sith Lord) a Just Monika Just Monika J fgdgfglfnkl JUST IN my heand seals. I can eat
+all the asses. WHATS GOOD</font></font></font>
+<br><font size=-3><font color = white><font color=#009966>Akimichi, Wefawef adsfasdfa (Fawef afwe-Tenen42) wonders if anyone is interested in a good dicking</font></font></font>
+<br><font color=green>*Mee , Tyler (Jkbjbjk-The Sith Lord) says: fnnjfkdsn
+<br><font color=green>*Mee , Tyler (Jkbjbjk-The Sith Lord) says: TYESt
+<br><font color=green>*Mee , Tyler (Jkbjbjk-The Sith Lord) says: kfgdjngfjfgnkdkfdgn
+<br><font size=-3><font color = white><font color=#009966>Mee , Tyler (Jkbjbjk-The Sith Lord) gfdfgd</font></font></font>
+<br><font color=green>*Mee , Tyler (Jkbjbjk-The Sith Lord) says: What is goood
+<br><font color=green>*Mee , Tyler (Jkbjbjk-The Sith Lord) says: I like pie
+<br><font color=green>*Mee , Tyler (Jkbjbjk-The Sith Lord) says: Pie is good
+<br><font color=green>*Kami, Cody (Fasfa-Seteden) says: fuk u
+<br><font color=green>*Mee , Tyler (Jkbjbjk-The Sith Lord) says: IM EATING ASS
+<br><font color=green>*Mee , Tyler (Jkbjbjk-The Sith Lord) says: HEY WHATS GOOd
+<br><font color=green>*Mee , Tyler (Jkbjbjk-The Sith Lord) says: EAT IT LIKE ITS GOINGO UT OF
+<br><font color=green>*Mee , Tyler (Jkbjbjk-The Sith Lord) says: I WANT TO DANCE LIKE A BOY A REAL BOY
+<br><font size=-3><font color = white><font color=#009966>Mee , Tyler (Jkbjbjk-The Sith Lord) fgdgfmdmkfdgmkgfmklfgdmkfdlg
+</font></font></font>
+<br><font size=-3><font color = white><font color=#009966>Mee , Tyler (Jkbjbjk-The Sith Lord) this is how we poop. u
+Mee , Tyler says: IM EATING ASS
+Mee , Tyler says: HEY WHATS GOOd
+Mee , Tyler says: EAT IT LIKE ITS GOINGO</font></font></font>
+<br><font size=-3><font color = white><font color=#009966>Akimichi, Wefawef adsfasdfa (Fawef afwe-Tenen42) Did you
+</font></font></font>
+<br><font size=-3><font color = white><font color=#009966>Mee , Tyler (Jkbjbjk-The Sith Lord)  ufggfdgfdgd
+Mee , Tyler says: IM EATING ASS
+M WHATS GOOdfdgdfg
+Mee , Tyler says: EAT IT LIKE ITS GOINGO
+gdfgdfdgf</font></font></font>
+<br><font color=green>*Shoton, Yush (Boy-Yushiroz) says: yo.
+<br><font color=green>*Shoton, Yush (Boy-Yushiroz) says: Wut up
+<br><font size=-3><font color = white><font color=#009966>Akimichi, Wefawef adsfasdfa (Fawef afwe-Tenen42) no strange man i do not want to eat the ass</font></font></font>
+<br><font color=green>*Mee , Tyler (Jkbjbjk-The Sith Lord) says: lfdgn
+<br><font size=-3><font color = white><font color=#009966>Akimichi, Wefawef adsfasdfa (Fawef afwe-Tenen42) please sir do not make me eat the ass</font></font></font>
+<br><font color=green>*Mee , Tyler (Jkbjbjk-The Sith Lord) says: HEY WHATS UP
+<br><font color=green>*Mee , Tyler (Jkbjbjk-The Sith Lord) says: BOYSS
+<br><font color=green>*Mee , Tyler (Jkbjbjk-The Sith Lord) says: TEWA TI
+<br><font size=-3><font color = white><font color=#009966>Akimichi, Wefawef adsfasdfa (Fawef afwe-Tenen42) no means no</font></font></font>
+<br><font size=-3><font color = white><font color=#009966>Mee , Tyler (Jkbjbjk-The Sith Lord) gfddgfdgfgfdfgdfgdfg</font></font></font>
+<br><font size=-3><font color = white><font color=#009966>Mee , Tyler (Jkbjbjk-The Sith Lord) eating my asshole u
+Mee , Tyler says: IM EATING ASS
+Mee , Tyler says: HEY WHATS GOOd
+Mee , Tyler says: EAT IT LIKE ITS GOINGO u
+Mee , Tyler says: IM EATING ASS
+Mee , Tyler says: HEY WHATS GOOd
+Mee , Tyler says: EAT IT LIKE ITS GOINGO
+</font></font></font>
+<br><font color=green>*Mee , Tyler (Jkbjbjk-The Sith Lord) says: LETS GO
+<br><font size=-3><font color = white><font color=#009966>Akimichi, Wefawef adsfasdfa (Fawef afwe-Tenen42) mr cop man please help me there is a man here demanding i taste his anal sphincter</font></font></font>
+<br><font size=-3><font color = white><font color=#800000>Shoton, Yush (Boy-Yushiroz) has a different color then default.  Fear him.</font></font></font>
+<br><font size=-3><font color = white><font color=#ffffff>Akimichi, Wefawef adsfasdfa (Fawef afwe-Tenen42) testing</font></font></font>
+<br><font color=green>*Mee , Tyler (Jkbjbjk-The Sith Lord) says: Test
+<br><font color=green>*Mee , Tyler (Jkbjbjk-The Sith Lord) says: Hey guys
+<br><font size=-3><font color = white><font color=#080808>Akimichi, Wefawef adsfasdfa (Fawef afwe-Tenen42) testing
+</font></font></font>
+<br><font size=-3><font color = white><font color=#009966>Mee , Tyler (Jkbjbjk-The Sith Lord) fdgfgdfdgfgdfgdfgd</font></font></font>
+<br><font size=-3><font color = white><font color=#009966>Mee , Tyler (Jkbjbjk-The Sith Lord) fdggfdfdgfgdfdg</font></font></font>
+<br><font size=-3><font color = white><font color=#080808>Akimichi, Wefawef adsfasdfa (Fawef afwe-Tenen42) this message so dark nobody will know tyler likes the asshole licking</font></font></font>
+<br><font size=-4><font color=teal>*Shoton, Yush(Boy-Yushiroz) OOCs: ((Wut))
+<br><font size=-3><font color = white><font color=#111111>Akimichi, Wefawef adsfasdfa (Fawef afwe-Tenen42) color test</font></font></font>
+<br><font color=green>*Mee , Tyler (Jkbjbjk-The Sith Lord) says: fgngdnjg
+<br><font color=green>*Mee , Tyler (Jkbjbjk-The Sith Lord) yells: fgdnfgdjfdngdfkj EAT IT !
+<br><font size=-3><font color = white><font color=#009966>Mee , Tyler (Jkbjbjk-The Sith Lord) gddfgdfgfgdfgdfgfgd</font></font></font>
+<br><font size=-3><font color = white><font color=#009966>Mee , Tyler (Jkbjbjk-The Sith Lord) I LIk pie in meee buthole pie pie pie I LIk pie in meee buthole pie pie pie I LIk pie in meee buthole pie pie pie 
+</font></font></font>
+<br><font size=-3><font color = white><font color=#009966>Mee , Tyler (Jkbjbjk-The Sith Lord)  fgdnfgdjfdngdfkj EAT IT !
+Mee , Tyler gddfgdfgfgdfgdfgfgd
+Mee , Tyler I LIk pie in meee buthole pie pie pie I LIk pie in meee buthole pie pie pie I LIk pie in meee buthole pie pie pie </font></font></font>
+<br><font color=green>*Mee , Tyler (Jkbjbjk-The Sith Lord) says: tESTING
+<br><font color=green>*Mee , Tyler (Jkbjbjk-The Sith Lord) says: OH MY GUUUDD
+<br><font color=green>*Kami, Cody (Fasfa-Seteden) says: https://i.gyazo.com/56ee7279b78115f1840b4d78549835c6.png
+<br><font color=green>*Mee , Tyler (Jkbjbjk-The Sith Lord) says: gfndlgfdkndfklknlfdg
+<br><font color=green>*Mee , Tyler (Jkbjbjk-The Sith Lord) says: GFKNGKFLDNLKFGDKLNFGDNKLFDG
+<br><font size=-3><font color = white><font color=#009966>Mee , Tyler (Jkbjbjk-The Sith Lord) gdnfgdjfdngdfkj EAT IT !
+Mee , Tyler gddfgdfgfgdfgdfgfgd
+Mee , Tyler I LIk pie in meee buthole pie pie pie I LIk pie in meee buthole pie pie pie I LIk pie in meee buthole pie pie pie 
+Mee , Tyler says: tESTING</font></font></font>
+<br><font size=-3><font color = white><font color=#009966>Mee , Tyler (Jkbjbjk-The Sith Lord) dnfgdjfdngdfkj EAT IT !
+Mee , Tyler gddfgdfgfgdfgdfgfgd
+Mee , Tyler I LIk pie in meee buthole pie pie pie I LIk pie in meee buthole pie pie pie I LIk pie in meee buthole pie pie pie 
+Mee , Tyler says: tESTINGdnfgdjfdngdfkj EAT IT !
+Mee , Tyler gddfgdfgfgdfgdfgfgd
+Mee , Tyler I LIk pie in meee buthole pie pie pie I LIk pie in meee buthole pie pie pie I LIk pie in meee buthole pie pie pie 
+Mee , Tyler says: tESTING</font></font></font>
+<br><font color=green>*Mee , Tyler (Jkbjbjk-The Sith Lord) says: TESTINGhat)Seteden:fuk uhat)Seteden:fuk uhat)Seteden:fuk uhat)Seteden:fuk uhat)Seteden:fuk uhat)Seteden:fuk uhat)Seteden:fuk uhat)Seteden:fuk uhat)Seteden:fuk uhat)Seteden:fuk uhat)Seteden:fuk uhat)Seteden:fuk u
+<br><font color=green>*Mee , Tyler (Jkbjbjk-The Sith Lord) says: hat)Seteden:fuk uhat)Seteden:fuk uhat)Seteden:fuk uhat)Seteden:fuk uhat)Seteden:fuk uhat)Seteden:fuk uhat)Seteden:fuk uhat)Seteden:fuk uhat)Seteden:fuk uhat)Seteden:fuk uhat)Seteden:fuk uhat)Seteden:fuk uhat)Seteden:fuk uhat)Seteden:fuk uhat)Seteden:fuk uhat)Seteden:fuk uhat)Seteden:fuk u
+<br><font size=-3><font color = white><font color=#009966>Mee , Tyler (Jkbjbjk-The Sith Lord) hat)Seteden:fuk u
+(Evefgdfggfddgfgfdgfdgfdddddddddddddddddddddddddddddddddddddddddhat)Seteden:fuk u
+(EventminChat)Seteden: fuk u
+Yushiroz whispers to Kami, Cody: fu
+(AdminChat)The Sith Lord::)hat)Seteden:fuk u
+(EventminChat)Seteden: fuk u
+Yushiroz whispers to Kami, Cody: fu
+(AdminChat)The Sith Lord::)</font></font></font>
+<br><font size=-3><font color = white><font color=#009966>Mee , Tyler (Jkbjbjk-The Sith Lord) hat)Seteden:fuk u
+(EventminChat)Seteden: fuk u
+Yushiroz whispers to Kami, Cody: fu
+(AdminChat)The Sith Lord::)hat)Seteden:fuk u
+(EventminChat)Seteden: fuk u
+Yushiroz whispers to Kami, Cody: fu
+(AdminChat)The Sith Lord::)hat)Seteden:fuk u
+(EventminChat)Seteden: fuk u
+Yushiroz whispers to Kami, Cody: fu
+(AdminChat)The Sith Lord::)hat)Seteden:fuk u
+(EventminChat)Seteden: fuk u
+Yushiroz whispers to Kami, Cody: fu
+(AdminChat)The Sith Lord::)hat)Seteden:fuk u
+(EventminChat)Seteden: fuk u
+Yushiroz whispers to Kami, Cody: fu
+(AdminChat)The Sith Lord::)hat)Seteden:fuk u
+(EventminChat)Seteden: fuk u
+Yushiroz whispers to Kami, Cody: fu
+(AdminChat)The Sith Lord::)hat)Seteden:fuk u
+(EventminChat)Seteden: fuk u
+Yushiroz whispers to Kami, Cody: fu
+(AdminChat)The Sith Lord::)</font></font></font>
+<br><font color=red>*Mee , Tyler(The Sith Lord) has been knocked out.
+<br><font color=red>*Akimichi, Wefawef adsfasdfa (Fawef afwe-Tenen42) increases their stamina by B - 6 / 6.
+<br><font color=green>*Mee , Tyler (Jkbjbjk-The Sith Lord) says: lkfmfdgmklmdllfkdg
+<br><font color=green>*Mee , Tyler (Jkbjbjk-The Sith Lord) says: lgfdmngdflmdfgmkgdfkl
+<br><font color=green>*Mee , Tyler (Jkbjbjk-The Sith Lord) says: gfdlkgfkmmdgfldfg
+<br><font size=-3><font color = white><font color=#009966>Mee , Tyler (Jkbjbjk-The Sith Lord) cgdfgfd gd ggfdggdfdf gdf ddgcgdfgfd gd ggfdggdfdf gdf ddgcgdfgfd gd ggfdggdfdf gdf ddgcgdfgfd gd ggfdggdfdf gdf ddgcgdfgfd gd ggfdggdfdf gdf ddgcgdfgfd gd ggfdggdfdf gdf ddgcgdfgfd gd ggfdggdfdf gdf ddgcgdfgfd gd ggfdggdfdf gdf ddgcgdfgfd gd ggfdggdfdf gdf ddgcgdfgfd gd ggfdggdfdf gdf ddgcgdfgfd gd ggfdggdfdf gdf ddgcgdfgfd gd ggfdggdfdf gdf ddgcgdfgfd gd ggfdggdfdf gdf ddgcgdfgfd gd ggfdggdfdf gdf ddgcgdfgfd gd ggfdggdfdf gdf ddgcgdfgfd gd ggfdggdfdf gdf ddgcgdfgfd gd ggfdggdfdf gdf ddgcgdfgfd gd ggfdggdfdf gdf ddgcgdfgfd gd ggfdggdfdf gdf ddg</font></font></font>
+<br><font size=-3><font color = white><font color=#009966>Testing randy (Stranger-Tenen42) asdofijasdfo</font></font></font>
+<br><font size=-3><font color = white><font color=#009966>Testing randy (Stranger-Tenen42) roleplaying i am</font></font></font>
+<br><font size=-3><font color = white><font color=#009966>Testing randy (Stranger-Tenen42) i am a roleplayer</font></font></font>
+<br><font size=-3><font color = white><font color=#800000>Shoton, Yush (Boy-Yushiroz) wonders what roleplaying even is.</font></font></font>
+<br><font size=-3><font color = white><font color=#800000>Shoton, Yush (Boy-Yushiroz) wonders what roleplaying even is.</font></font></font>
+<br><font size=-3><font color = white><font color=#800000>Shoton, Yush (Boy-Yushiroz) wonders what roleplaying even is.</font></font></font>
+<br><font size=-3><font color = white><font color=#800000>Shoton, Yush (Boy-Yushiroz) wonders what roleplaying even is.wonders what roleplaying even is.</font></font></font>
+<br><font size=-3><font color = white><font color=#800000>Shoton, Yush (Boy-Yushiroz) wonders what roleplaying even is.wonders what roleplaying even is.wonders what roleplaying even is.wonders what roleplaying even is.wonders what roleplaying even is.wonders what roleplaying even is.wonders what roleplaying even is.</font></font></font>
+<br><font size=-3><font color = white><font color=#800000>Shoton, Yush (Boy-Yushiroz) wonders what roleplaying even is.wonders what roleplaying even is.wonders what roleplaying even is.wonders what roleplaying even is.wonders what roleplaying even is.wonders what roleplaying even is.wonders what roleplaying even is.wonders what roleplaying even is.wonders what roleplaying even is.wonders what roleplaying even is.wonders what roleplaying even is.</font></font></font>
+<br><font size=-3><font color = white><font color=#800000>Shoton, Yush (Boy-Yushiroz) wonders what roleplaying even is.</font></font></font>
+<br><font size=-3><font color = white><font color=#800000>Shoton, Yush (Boy-Yushiroz) wonders what roleplaying even is.</font></font></font>
+<br><font size=-3><font color = white><font color=#800000>Shoton, Yush (Boy-Yushiroz) wonders what roleplaying even is.</font></font></font>
+<br><font size=-3><font color = white><font color=#800000>Shoton, Yush (Boy-Yushiroz) wonders what roleplaying even is.wonders what roleplaying even is.wonders what roleplaying even is.wonders what roleplaying even is.wonders what roleplaying even is.wonders what roleplaying even is.</font></font></font>
+<br><font size=-3><font color = white><font color=#800000>Shoton, Yush (Boy-Yushiroz) wonders what roleplaying even is.</font></font></font>
+<br><font size=-3><font color = white><font color=#800000>Shoton, Yush (Boy-Yushiroz) wonders what roleplaying even is.wonders what roleplaying even is.wonders what roleplaying even is.wonders what roleplaying even is.wonders what roleplaying even is.</font></font></font>
+<br><font size=-3><font color = white><font color=#800000>Shoton, Yush (Boy-Yushiroz) wonders what roleplaying even is.</font></font></font>
+<br><font size=-3><font color = white><font color=#800000>Shoton, Yush (Boy-Yushiroz) wonders what roleplaying even is.</font></font></font>
+<br><font size=-3><font color = white><font color=#800000>Shoton, Yush (Boy-Yushiroz) wonders what roleplaying even is.wonders what roleplaying even is.wonders what roleplaying even is.wonders what roleplaying even is.wonders what roleplaying even is.wonders what roleplaying even is.</font></font></font>
+<br><font size=-3><font color = white><font color=#800000>Shoton, Yush (Boy-Yushiroz) wonders what roleplaying even is.</font></font></font>
+<br><font size=-3><font color = white><font color=#800000>Shoton, Yush (Boy-Yushiroz) wonders what roleplaying even is.wonders what roleplaying even is.wonders what roleplaying even is.wonders what roleplaying even is.wonders what roleplaying even is.wonders what roleplaying even is.wonders what roleplaying even is.wonders what roleplaying even is.wonders what roleplaying even is.wonders what roleplaying even is.</font></font></font>

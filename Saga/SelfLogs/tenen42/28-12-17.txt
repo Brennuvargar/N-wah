@@ -1,0 +1,85 @@
+<br><font size=-3><b><span style="color:#009966"><a href=?src=[0x30000a7];action=name;character=0f1240045963c068c0335f136a09a1ce89916581a732757fc92205a19552ab36 style = "text-decoration: none; color: #009966;">Mod one</a> says:</b><span style="color:#009966"><font color = white> hdiing in ash</font></font></font></span></span>
+<br><font size=-3><b><span style="color:#009966"><a href=?src=[0x30000a7];action=name;character=0f1240045963c068c0335f136a09a1ce89916581a732757fc92205a19552ab36 style = "text-decoration: none; color: #009966;">Mod one</a> says:</b><span style="color:#009966"><font color = white> flame whril</font></font></font></span></span>
+<br><font size=-3><b><span style="color:#009966"><a href=?src=[0x30000a7];action=name;character=0f1240045963c068c0335f136a09a1ce89916581a732757fc92205a19552ab36 style = "text-decoration: none; color: #009966;">Mod one</a> says:</b><span style="color:#009966"><font color = white> animal hunter dragon </font></font></font></span></span>
+<br><font size=-3><font color = white><font color=#d60093><a href=?src=[0x30000a7];action=name;character=0f1240045963c068c0335f136a09a1ce89916581a732757fc92205a19552ab36 style = "text-decoration: none; color: #d60093;">Mod one</a> 90
+66
+66
+66
+39
+39
+39
+39
+39</font></font></font>
+<br><font size=-3><font color = white><font color=#d60093><a href=?src=[0x30000a7];action=name;character=0f1240045963c068c0335f136a09a1ce89916581a732757fc92205a19552ab36 style = "text-decoration: none; color: #d60093;">Mod one</a> 90
+90
+78
+56
+39
+47
+39
+32
+39
+39
+39
+32
+32
+32
+10
+10
+10
+</font></font></font>
+<br><font size=-3><font color = white><font color=#d60093><a href=?src=[0x30000a7];action=name;character=0f1240045963c068c0335f136a09a1ce89916581a732757fc92205a19552ab36 style = "text-decoration: none; color: #d60093;">Mod one</a> icy impalement 66
+twin d66
+fronze barr66
+ice mirrors66
+winters hunger66
+let it go39
+disk launcher39
+ black ragon39
+winterfell39
+floating disk39
+flash freeze20
+deadly ice river20
+ice dome20
+needle storm20
+needle barrage10
+paralyzing cold10
+wall of snow10
+winter&#39;s chill 10
+death from above90
+snow day90</font></font></font>
+<br><font size=-3><font color = white><font color=#d60093><a href=?src=[0x30000a7];action=name;character=0f1240045963c068c0335f136a09a1ce89916581a732757fc92205a19552ab36 style = "text-decoration: none; color: #d60093;">Mod one</a> paper chakram        66
+swiftly blinding         66
+entombing paper     66
+flock of flensing       66
+paper vortex            39
+shredder                  39
+paper blast              39 
+paper wings            39
+gaurdian angel        39
+front of endless       20 
+paper wall               20
+spiral parchment      20
+paper wings             20
+paper blades on the wind 10
+paper weaponry       10 
+folded shield             10
+paper world               90
+origami doom             90</font></font></font>
+<br><font size=-3><font color = white><font color=#d60093>
+    if(value &gt;= 165) return &#34;S+&#34;
+    if(value &gt;= 145) return &#34;S&#34;
+    if(value &gt;= 120) return &#34;S-&#34;
+    if(value &gt;= 105) return &#34;A+&#34;
+    if(value &gt;= 90) return &#34;A&#34;
+    if(value &gt;= 78) return &#34;A-&#34;
+    if(value &gt;= 66) return &#34;B+&#34;
+    if(value &gt;= 56) return &#34;B&#34;
+    if(value &gt;= 47) return &#34;B-&#34;
+    if(value &gt;= 39) return &#34;C+&#34;
+    if(value &gt;= 32) return &#34;C&#34;
+    if(value &gt;= 26) return &#34;C-&#34;
+    if(value &gt;= 20) return &#34;D+&#34;
+    if(value &gt;= 15) return &#34;D&#34;
+    if(value &gt;= 10) return &#34;D-&#34;
+    if(value &gt;= 5) return &#34;E+&#34;<br>(<a href=?src=[0x30000a7];action=name;character=0f1240045963c068c0335f136a09a1ce89916581a732757fc92205a19552ab36 style = "text-decoration: none; color: #d60093;">Mod one</a>)</font></font></font>

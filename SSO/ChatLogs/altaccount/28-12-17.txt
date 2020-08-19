@@ -1,0 +1,134 @@
+<br><font size=-3><font color = white><font color=#009966>Uchiha, Scotty (God tier admin-AltAccount) test</font></font></font>
+<br><font color=green>*Mod One (Mod one-AltAccount) says: hdiing in ash
+<br><font color=green>*Mod One (Mod one-AltAccount) says: flame whril
+<br><font color=green>*Mod One (Mod one-AltAccount) says: animal hunter dragon 
+<br><font color=green>*Mod One (Mod one-AltAccount) says: Uhm, hai :3
+<br><font size=-4><font color=teal>*Punching Bag(The guy-Farsa) OOCs: hay bby ;)
+<br><font color=green>*Mod One (Mod one-AltAccount) says: fire dragon flame bullet
+<br><font color=green>*Mod One (Mod one-AltAccount) says: crimson flame
+<br><font color=green>*Mod One (Mod one-AltAccount) says: ray of consuming fmale
+<br><font color=green>*Mod One (Mod one-AltAccount) says: falming needles
+<br><font color=green>*Punching Bag (The guy-Farsa) says: infernal cannon
+<br><font color=green>*Punching Bag (The guy-Farsa) says: great fire annhilation
+<br><font color=green>*Punching Bag (The guy-Farsa) says: D-
+<br><font color=green>*Punching Bag (The guy-Farsa) says: 10
+<br><font color=green>*Tyler (Tyler-The Sith Lord) says: D-  10
+<br><font color=green>*Tyler (Tyler-The Sith Lord) says: D+  20
+<br><font color=green>*Tyler (Tyler-The Sith Lord) says:  C+  39
+<br><font color=green>*Punching Bag (The guy-Farsa) says: flagrant gust
+<br><font color=green>*Tyler (Tyler-The Sith Lord) says:  B+  66
+<br><font color=green>*Punching Bag (The guy-Farsa) says: gust force
+<br><font color=green>*Tyler (Tyler-The Sith Lord) says: A  90
+<br><font size=-3><font color = white><font color=#d60093>Mod One (Mod one-AltAccount) Tyler says: D-  10
+Tyler says: D+  20
+Tyler says:  C+  39
+Tyler says:  B+  66
+Tyler says: A  90</font></font></font>
+<br><font size=-3><font color = white><font color=#d60093>Mod One (Mod one-AltAccount) thunderclap - 10
+raik - 10
+r clone - 20
+fist of storms - 20
+lightning blade -20
+thudner stroke - 20
+forked bolts - 20
+jobashi - 20
+arc lightning - 20
+shocking grasp -20
+lightning rod-20
+depth charge -39
+thunderbolt - 39
+spider web - 39
+thudnering beam - 39
+false darkness 0 39
+hell stab 39
+thunder binding - 39
+lightning cannon - 66
+violent quake - 66
+thunderstorm - 66
+paralyzingbreath - 66
+absolute desolation - 66
+kirin - 90
+thundergod's breath - 90
+</font></font></font>
+<br><font size=-3><font color = white><font color=#d60093>Mod One (Mod one-AltAccount) 90
+66
+66
+66
+39
+39
+39
+39
+39</font></font></font>
+<br><font size=-3><font color = white><font color=#d60093>Mod One (Mod one-AltAccount) 90
+90
+78
+56
+39
+47
+39
+32
+39
+39
+39
+32
+32
+32
+10
+10
+10
+</font></font></font>
+<br><font size=-3><font color = white><font color=#d60093>Mod One (Mod one-AltAccount) icy impalement 66
+twin d66
+fronze barr66
+ice mirrors66
+winters hunger66
+let it go39
+disk launcher39
+ black ragon39
+winterfell39
+floating disk39
+flash freeze20
+deadly ice river20
+ice dome20
+needle storm20
+needle barrage10
+paralyzing cold10
+wall of snow10
+winter's chill 10
+death from above90
+snow day90</font></font></font>
+<br><font size=-3><font color = white><font color=#d60093>Mod One (Mod one-AltAccount) paper chakram        66
+swiftly blinding         66
+entombing paper     66
+flock of flensing       66
+paper vortex            39
+shredder                  39
+paper blast              39 
+paper wings            39
+gaurdian angel        39
+front of endless       20 
+paper wall               20
+spiral parchment      20
+paper wings             20
+paper blades on the wind 10
+paper weaponry       10 
+folded shield             10
+paper world               90
+origami doom             90</font></font></font>
+<br><font size=-3><font color = white><font color=#d60093>Mod One (Mod one-AltAccount) 
+    if(value >= 165) return "S+"
+    if(value >= 145) return "S"
+    if(value >= 120) return "S-"
+    if(value >= 105) return "A+"
+    if(value >= 90) return "A"
+    if(value >= 78) return "A-"
+    if(value >= 66) return "B+"
+    if(value >= 56) return "B"
+    if(value >= 47) return "B-"
+    if(value >= 39) return "C+"
+    if(value >= 32) return "C"
+    if(value >= 26) return "C-"
+    if(value >= 20) return "D+"
+    if(value >= 15) return "D"
+    if(value >= 10) return "D-"
+    if(value >= 5) return "E+"</font></font></font>
