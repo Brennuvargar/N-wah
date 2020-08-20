@@ -2231,7 +2231,8 @@ proc/Edited(atom/O)
 	usr << browse(html,"window=Edit;size=400x400")
 
 proc
-	islist(var/list/s)	return istype(s)
+	hislist(var/list/s)	
+		return istype(s)
 	dd_replacetext(text, search_string, replacement_string)
 		// A nice way to do this is to split the text into an array based on the search_string,
 		// then put it back together into text using replacement_string as the new separator.
