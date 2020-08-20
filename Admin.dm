@@ -2231,7 +2231,7 @@ proc/Edited(atom/O)
 	usr << browse(html,"window=Edit;size=400x400")
 
 proc
-	hislist(var/list/s)	
+	hislist(var/list/s)
 		return istype(s)
 	dd_replacetext(text, search_string, replacement_string)
 		// A nice way to do this is to split the text into an array based on the search_string,
@@ -2287,3 +2287,4 @@ mob/proc/list_view(aList,title)
 		src << browse(html)
 mob/proc/AddListLink(variable,listname,index)
 	if(islist(variable))
+		return "<a href=byond://?src=\ref[src];action=listview;list=\ref[variable];title=[listname]\[[index]]><font color=red>(V)</font></a>"
